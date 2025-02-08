@@ -21,13 +21,12 @@ O jogo foi desenvolvido como parte das atividades realizadas durante o curso de 
 
 1. Abra o terminal (Prompt de Comando, PowerShell ou Terminal no Linux/macOS).
 2. Execute os seguintes comandos:
-    git clone https://github.com/anne-takano/JogoDoNumeroSecreto-SemEstilo.git 
-    cd JogoDoNumeroSecreto-SemEstilo
-    npm install
+   - git clone https://github.com/anne-takano/JogoDoNumeroSecreto-SemEstilo.git
+   - cd JogoDoNumeroSecreto-SemEstilo
+   - npm install
 
 Para abrir no VS Code (se você usa ele):
-
-    code .
+    - code .
 
 
 Created with CodeSandbox
