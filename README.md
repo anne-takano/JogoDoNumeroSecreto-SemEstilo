@@ -26,7 +26,6 @@ O jogo foi desenvolvido como parte das atividades realizadas durante o curso de 
    - npm install
 
 Para abrir no VS Code (se você usa ele):
-    - code .
-
+   - code .
 
 Created with CodeSandbox
